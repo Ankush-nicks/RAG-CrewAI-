@@ -40,6 +40,7 @@ cp .env.example .env
 
 ### 4. Run the app
 ```bash
+ollama pull qwen2.5:7b
 streamlit run app.py
 ```
 
