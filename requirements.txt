@@ -1,0 +1,9 @@
+streamlit>=1.37
+crewai>=0.86,<1.0
+crewai-tools>=0.17,<1.0
+chonkie[semantic]>=0.2
+markitdown>=0.0.1a3
+qdrant-client>=1.11
+fastembed>=0.3
+python-dotenv>=1.0
+firecrawl-py>=1.0
